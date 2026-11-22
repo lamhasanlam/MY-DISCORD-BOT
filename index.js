@@ -1,1 +1,0 @@
-const Client, GatewayIntentBits = require('discord.js'); const client = new Client({ intents: [GatewayIntentBits.Guilds] }); client.once('ready', () => { console.log('Ready!'); }); client.login(.GW34sU.7jOKyeqJOPt7hmg2YE7FLVhFGidysl2PEK0YH4;)
